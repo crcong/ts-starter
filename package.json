@@ -5,8 +5,8 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "packageManager": "pnpm@6.32.3",
-  "homepage": "",
+  "packageManager": "pnpm@7.1.0",
+  "homepage": "https://github.com/crcong/[name]",
   "bugs": {
     "url": "https://github.com/crcong/[name]/issues"
   },
